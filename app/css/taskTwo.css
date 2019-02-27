@@ -1,0 +1,11 @@
+
+#place-for-value{
+    display: flex;
+}
+
+.rect {
+    width:  2em;
+    height: 1em;
+    margin: 0.5em;
+}
+
